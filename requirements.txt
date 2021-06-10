@@ -1,4 +1,4 @@
-Django==1.9.6
+Django==2.2.24
 GnuPGInterface==0.3.2
 apt-xapian-index==0.45
 argparse==1.2.1
